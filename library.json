@@ -1,0 +1,17 @@
+{
+    "name": "Madgwick",
+    "description": "Helpers for MadgwickAHRS algorithm",
+    "keywords": "Madgwick",
+    "authors": {
+      "name": "Arduino",
+      "url": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/arduino-libraries/MadgwickAHRS.git"
+    },
+    "version": "1.2.0",
+    "frameworks": ["arduino", "espidf", "*"],
+    "platforms": ["espressif32", "native"],
+    "headers": "MadgwickAHRS.h"
+  }
